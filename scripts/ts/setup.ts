@@ -54,3 +54,10 @@ function anyKeyPressed(): boolean {
 function isMousePressed(): boolean {
   return mousePressed != "none";
 }
+
+// ---
+
+function defineCanvasSize(): void {
+  g.canvas.width = window.innerWidth;
+  g.canvas.height = window.innerHeight;
+}

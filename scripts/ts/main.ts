@@ -1,5 +1,5 @@
 function init(): void {
-  
+  defineCanvasSize();
 }
 
 function tick(): void {
