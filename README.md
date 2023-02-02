@@ -23,4 +23,4 @@ This template does not contain any external dependencies, but it provides a smal
 
 - Graphics: This template uses the default Canvas API, whose instance is defined inside the `Graphics` class, defined in `graphics.ts` file;
 
-- Sprites: There's a folder called `sprites`, where you can store all of your assets. You just need to link them in the `index.html` file, inside `div#hidden`, and in `images.ts` instance them, by a function called `loadImage()`.
+- Sprites: There's a folder called `sprites`, where you can store all of your sprites. You just need to link them in the `index.html` file, inside `div#hidden`, and in the file `images.ts` load them from DOM by a function called `loadImage()`.
