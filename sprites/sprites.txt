@@ -1,0 +1,2 @@
+Place your sprites in this folder.
+You can delete this file if you want.
